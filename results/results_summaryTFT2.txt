@@ -1,0 +1,77 @@
+Test results: 
+ pfieffer 
+ citation_intent 
+ Average Macro F1:0.6484922216273081 
+ StdDev:0.029383832263705983 
+ Variance:0.0008634095985016087
+
+Test results: 
+ houlsby 
+ citation_intent 
+ Average Macro F1:0.6371653922584288 
+ StdDev:0.013194139752767568 
+ Variance:0.00017408532381556143
+
+Test results: 
+ pfieffer 
+ citation_intent 
+ Average Macro F1:0.6454556514548986 
+ StdDev:0.027025626300795184 
+ Variance:0.0007303844769502324
+
+Test results: 
+ houlsby 
+ citation_intent 
+ Average Macro F1:0.6371653922584288 
+ StdDev:0.013194139752767568 
+ Variance:0.00017408532381556143
+
+Test results: 
+ no_lang_adapter 
+ citation_intent 
+ Average Macro F1:0.6636295983139401 
+ StdDev:0.002755507128035023 
+ Variance:7.592819532651822e-06
+
+Test results: 
+ pfieffer 
+ sciie 
+ Average Macro F1:0.8186732959529933 
+ StdDev:0.004759109802527168 
+ Variance:2.2649126112510184e-05
+
+Test results: 
+ pfieffer 
+ citation_intent 
+ Average Macro F1:0.6099586813858191 
+ StdDev:0.019210277979581157 
+ Variance:0.0003690347800527807
+
+Test results: 
+ houlsby 
+ citation_intent 
+ Average Macro F1:0.6354397326801553 
+ StdDev:0.022747497788856073 
+ Variance:0.0005174486556540119
+
+Test results: 
+ no_lang_adapter 
+ citation_intent 
+ Average Macro F1:0.6331323746129428 
+ StdDev:0.012078876789545428 
+ Variance:0.00014589926449701926
+
+Test results: 
+ houlsby 
+ sciie 
+ Average Macro F1:0.8189011230680263 
+ StdDev:0.0042971565352505955 
+ Variance:1.8465554288446905e-05
+
+Test results: 
+ no_lang_adapter 
+ sciie 
+ Average Macro F1:0.8195787506946668 
+ StdDev:0.0011362800911472808 
+ Variance:1.2911324455376729e-06
+

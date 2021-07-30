@@ -1,0 +1,42 @@
+Test results: 
+ pfieffer 
+ citation_intent 
+ Average Macro F1:0.5828422916947652 
+ StdDev:0.018538717332842538 
+ Variance:0.0003436840403470364
+
+Test results: 
+ houlsby 
+ citation_intent 
+ Average Macro F1:0.5833263164349667 
+ StdDev:0.01732958095079126 
+ Variance:0.0003003143759300273
+
+Test results: 
+ no_lang_adapter 
+ citation_intent 
+ Average Macro F1:0.6004893355203668 
+ StdDev:0.02686288186878821 
+ Variance:0.0007216144222964703
+
+Test results: 
+ pfieffer 
+ sciie 
+ Average Macro F1:0.7837995024333546 
+ StdDev:0.010003419576204282 
+ Variance:0.00010006840321758706
+
+Test results: 
+ no_lang_adapter 
+ sciie 
+ Average Macro F1:0.791308009902712 
+ StdDev:0.007744006732031982 
+ Variance:5.996964026575666e-05
+
+Test results: 
+ houlsby 
+ sciie 
+ Average Macro F1:0.7709420981699235 
+ StdDev:0.017942602270100957 
+ Variance:0.0003219369762230321
+

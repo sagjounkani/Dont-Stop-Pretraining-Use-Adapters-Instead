@@ -1,0 +1,175 @@
+Test results: 
+ pfieffer 
+ citation_intent 
+ {'eval_loss': 0.8391292095184326, 'eval_accuracy': 0.7122302158273381, 'eval_f1': 0.5770402919107823, 'eval_precision': 0.6018859873698583, 'eval_recall': 0.5679115719960791} 
+
+Test results: 
+ pfieffer 
+ citation_intent 
+ {'eval_loss': 0.8348472714424133, 'eval_accuracy': 0.7266187050359713, 'eval_f1': 0.5980923089433727, 'eval_precision': 0.6, 'eval_recall': 0.6090532941237167} 
+
+Test results: 
+ pfieffer 
+ citation_intent 
+ {'eval_loss': 0.8641846776008606, 'eval_accuracy': 0.7410071942446043, 'eval_f1': 0.6054319388931085, 'eval_precision': 0.6151693007191729, 'eval_recall': 0.6268281483774442} 
+
+Test results: 
+ pfieffer 
+ citation_intent 
+ {'eval_loss': 0.8229448199272156, 'eval_accuracy': 0.7482014388489209, 'eval_f1': 0.5814640849490446, 'eval_precision': 0.5854417354417355, 'eval_recall': 0.5801614817107775} 
+
+Test results: 
+ pfieffer 
+ citation_intent 
+ {'eval_loss': 0.8982704877853394, 'eval_accuracy': 0.7122302158273381, 'eval_f1': 0.5521828337775181, 'eval_precision': 0.5595015695387187, 'eval_recall': 0.5609276169839551} 
+
+Test results: 
+ houlsby 
+ citation_intent 
+ {'eval_loss': 0.8565832376480103, 'eval_accuracy': 0.7338129496402878, 'eval_f1': 0.6045421120588813, 'eval_precision': 0.6159391534391535, 'eval_recall': 0.6111504926997885} 
+
+Test results: 
+ houlsby 
+ citation_intent 
+ {'eval_loss': 0.8400153517723083, 'eval_accuracy': 0.7266187050359713, 'eval_f1': 0.5962175662175662, 'eval_precision': 0.5932964094728801, 'eval_recall': 0.6178140638704018} 
+
+Test results: 
+ houlsby 
+ citation_intent 
+ {'eval_loss': 0.872786283493042, 'eval_accuracy': 0.7122302158273381, 'eval_f1': 0.5687247978591301, 'eval_precision': 0.5680952380952381, 'eval_recall': 0.5861961512665738} 
+
+Test results: 
+ houlsby 
+ citation_intent 
+ {'eval_loss': 0.8406618237495422, 'eval_accuracy': 0.7266187050359713, 'eval_f1': 0.5890951579873077, 'eval_precision': 0.6079669010703493, 'eval_recall': 0.5769256565031212} 
+
+Test results: 
+ houlsby 
+ citation_intent 
+ {'eval_loss': 0.8219534158706665, 'eval_accuracy': 0.7122302158273381, 'eval_f1': 0.558051948051948, 'eval_precision': 0.5815540962109916, 'eval_recall': 0.556608368157664} 
+
+Test results: 
+ no_lang_adapter 
+ citation_intent 
+ {'eval_loss': 0.8413851261138916, 'eval_accuracy': 0.7266187050359713, 'eval_f1': 0.570609926985766, 'eval_precision': 0.5857843137254902, 'eval_recall': 0.5642243202806583} 
+
+Test results: 
+ no_lang_adapter 
+ citation_intent 
+ {'eval_loss': 0.8178679347038269, 'eval_accuracy': 0.7410071942446043, 'eval_f1': 0.6439818120285832, 'eval_precision': 0.6546087636932707, 'eval_recall': 0.6386441727286797} 
+
+Test results: 
+ no_lang_adapter 
+ citation_intent 
+ {'eval_loss': 0.8318999409675598, 'eval_accuracy': 0.7338129496402878, 'eval_f1': 0.5961741498014325, 'eval_precision': 0.6132733007733008, 'eval_recall': 0.5934948150441108} 
+
+Test results: 
+ no_lang_adapter 
+ citation_intent 
+ {'eval_loss': 0.805297315120697, 'eval_accuracy': 0.7482014388489209, 'eval_f1': 0.5763230763230763, 'eval_precision': 0.5874795139501022, 'eval_recall': 0.5799050714543673} 
+
+Test results: 
+ no_lang_adapter 
+ citation_intent 
+ {'eval_loss': 0.7788832187652588, 'eval_accuracy': 0.7482014388489209, 'eval_f1': 0.6153577124629755, 'eval_precision': 0.642148217311616, 'eval_recall': 0.6022524892947428} 
+
+Test results: 
+ pfieffer 
+ sciie 
+ {'eval_loss': 0.480295330286026, 'eval_accuracy': 0.864476386036961, 'eval_f1': 0.797554095190403, 'eval_precision': 0.7824898770950133, 'eval_recall': 0.8145342700047442} 
+
+Test results: 
+ pfieffer 
+ sciie 
+ {'eval_loss': 0.4774134159088135, 'eval_accuracy': 0.8552361396303901, 'eval_f1': 0.7771204914685158, 'eval_precision': 0.7786308386284395, 'eval_recall': 0.7801689442839359} 
+
+Test results: 
+ pfieffer 
+ sciie 
+ {'eval_loss': 0.4741106331348419, 'eval_accuracy': 0.8572895277207392, 'eval_f1': 0.7783943713124398, 'eval_precision': 0.7720868271802986, 'eval_recall': 0.7858692093593854} 
+
+Test results: 
+ pfieffer 
+ sciie 
+ {'eval_loss': 0.4914907217025757, 'eval_accuracy': 0.8593429158110883, 'eval_f1': 0.7938255238389968, 'eval_precision': 0.778338837563917, 'eval_recall': 0.8118026909167344} 
+
+Test results: 
+ pfieffer 
+ sciie 
+ {'eval_loss': 0.5098848938941956, 'eval_accuracy': 0.8542094455852156, 'eval_f1': 0.7721030303564174, 'eval_precision': 0.7636099717216397, 'eval_recall': 0.785953752345417} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.5004109144210815, 'eval_accuracy': 0.8521560574948666, 'eval_f1': 0.7746759295186616, 'eval_precision': 0.7637623468793945, 'eval_recall': 0.786818387178343} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.48592570424079895, 'eval_accuracy': 0.8531827515400411, 'eval_f1': 0.7655619596425509, 'eval_precision': 0.769970908837243, 'eval_recall': 0.7665276153964001} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.5079302191734314, 'eval_accuracy': 0.8552361396303901, 'eval_f1': 0.781116322173262, 'eval_precision': 0.7775530652836186, 'eval_recall': 0.7883093599679631} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.48928725719451904, 'eval_accuracy': 0.8357289527720739, 'eval_f1': 0.7399674679460466, 'eval_precision': 0.7409023306081917, 'eval_recall': 0.7449399573836306} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.454169899225235, 'eval_accuracy': 0.8655030800821355, 'eval_f1': 0.7933888115690964, 'eval_precision': 0.7931486083287302, 'eval_recall': 0.7990383154557527} 
+
+Test results: 
+ no_lang_adapter 
+ sciie 
+ {'eval_loss': 0.45689770579338074, 'eval_accuracy': 0.8593429158110883, 'eval_f1': 0.7816426375836556, 'eval_precision': 0.7759294786599725, 'eval_recall': 0.7897492492308883} 
+
+Test results: 
+ no_lang_adapter 
+ sciie 
+ {'eval_loss': 0.43870246410369873, 'eval_accuracy': 0.8737166324435318, 'eval_f1': 0.7887874324080212, 'eval_precision': 0.8004833936771281, 'eval_recall': 0.7879138368970321} 
+
+Test results: 
+ no_lang_adapter 
+ sciie 
+ {'eval_loss': 0.47544869780540466, 'eval_accuracy': 0.8634496919917864, 'eval_f1': 0.7861240484452269, 'eval_precision': 0.7854474490174775, 'eval_recall': 0.788892482388855} 
+
+Test results: 
+ no_lang_adapter 
+ sciie 
+ {'eval_loss': 0.4456382989883423, 'eval_accuracy': 0.86652977412731, 'eval_f1': 0.7966504288385942, 'eval_precision': 0.787786301442184, 'eval_recall': 0.8069356134357383} 
+
+Test results: 
+ no_lang_adapter 
+ sciie 
+ {'eval_loss': 0.45449158549308777, 'eval_accuracy': 0.8706365503080082, 'eval_f1': 0.8033355022380617, 'eval_precision': 0.8093305718372693, 'eval_recall': 0.8005764094404695} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.5004109144210815, 'eval_accuracy': 0.8521560574948666, 'eval_f1': 0.7746759295186616, 'eval_precision': 0.7637623468793945, 'eval_recall': 0.786818387178343} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.48592570424079895, 'eval_accuracy': 0.8531827515400411, 'eval_f1': 0.7655619596425509, 'eval_precision': 0.769970908837243, 'eval_recall': 0.7665276153964001} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.5079302191734314, 'eval_accuracy': 0.8552361396303901, 'eval_f1': 0.781116322173262, 'eval_precision': 0.7775530652836186, 'eval_recall': 0.7883093599679631} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.48928725719451904, 'eval_accuracy': 0.8357289527720739, 'eval_f1': 0.7399674679460466, 'eval_precision': 0.7409023306081917, 'eval_recall': 0.7449399573836306} 
+
+Test results: 
+ houlsby 
+ sciie 
+ {'eval_loss': 0.454169899225235, 'eval_accuracy': 0.8655030800821355, 'eval_f1': 0.7933888115690964, 'eval_precision': 0.7931486083287302, 'eval_recall': 0.7990383154557527} 
+
